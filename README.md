@@ -6,9 +6,9 @@ I'm currently completing my main curriculum in programming at 42 Quebec.
   - 🎵 Music lover, melon enthusiast and video-game enjoyer. 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=ts,html,css,react,c,cpp,docker)](https://skills.thijs.gg)
 
-
+----------------------------------------------------------------------------------------------------
   ### Github stats
   [![mafortin42's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafortin42&show_icons=true&theme=tokyonight)](https://github.com/mafortin42/github-readme-stats)
   
