@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hey ! I'm Marc-Andre👋
+I'm currently completing my main curriculum in programming at 42 Quebec.
+  - 📕 Currently learning web development 
+  - 🔨 Looking for an internship
+  - 👓 Interested in working in Web / Mobile as a full stack dev.
+  - 🎵 Music lover, melon enthusiast and video-game geek. 
 <!--
 **mafortin42/mafortin42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
